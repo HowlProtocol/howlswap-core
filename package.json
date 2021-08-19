@@ -1,7 +1,7 @@
 {
   "name": "@howlswap/core",
   "description": "🎛 Core contracts for the Howl exchange",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://howldao.org",
   "repository": {
     "type": "git",
